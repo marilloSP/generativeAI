@@ -6,7 +6,8 @@ body {
     background: pink;
     margin: auto;
     width: 44%;
-    padding: 16%;
+    padding: 6%;
     font-family: 'Lexend', Helvetica, sans-serif;
+    box-shadow: 10px 10px 5px salmon;
 }
   
