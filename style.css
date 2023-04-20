@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+}
+
+.container {
+    background: pink;
+    margin: auto;
+    width: 44%;
+    padding: 5%;
+    font-family: 'Lexend', Helvetica, sans-serif;
+}
+  
