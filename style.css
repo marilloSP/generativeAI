@@ -5,9 +5,13 @@ body {
 .container {
     background: pink;
     margin: auto;
-    width: 44%;
+    width: 44vw;
     padding: 8.5%;
     font-family: 'Lexend', Helvetica, sans-serif;
     box-shadow: 15px 5px 15px salmon;
+}
+
+li {
+    padding: .5%;
 }
   
